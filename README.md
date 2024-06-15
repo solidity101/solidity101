@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on innovative DeFi projects, NFT platforms, and blockchain educational content.
 - 📫 How to reach me: DM me on Twitter or email me at solidity101@gmail.com
 - ⚡ Fun fact: I love teaching Solidity through interactive code challenges and gamified learning experiences!
+- 👀 Look & Read: Read us on Medium https://medium.com/@solidity101
+
 
 <!---
 solidity101/solidity101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
